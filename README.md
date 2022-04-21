@@ -1,3 +1,3 @@
-# Vue 3 + Vite
+# Vue 3 + Vite + Element Plus
 
-## vue3 + vite + vue-router + vuex模板
+## vue3 + vite + Element Plus + vue-router + vuex模板
