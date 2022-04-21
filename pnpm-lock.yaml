@@ -1,6 +1,7 @@
 lockfileVersion: 5.3
 
 specifiers:
+  '@element-plus/icons-vue': ^1.1.4
   '@vitejs/plugin-vue': ^2.3.1
   axios: ^0.26.1
   element-plus: ^2.1.8
@@ -14,6 +15,7 @@ specifiers:
   vuex: ^4.0.2
 
 dependencies:
+  '@element-plus/icons-vue': registry.npmmirror.com/@element-plus/icons-vue/1.1.4_vue@3.2.33
   axios: registry.npmmirror.com/axios/0.26.1
   element-plus: registry.npmmirror.com/element-plus/2.1.10_vue@3.2.33
   qs: registry.npmmirror.com/qs/6.10.3
